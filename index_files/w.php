@@ -1,0 +1,1 @@
+function xsjhitokoto(){document.write("所谓女生啊，就是温柔体贴，笑容会治愈人心灵的飘浮着灵气的存在");}
